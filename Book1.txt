@@ -1,5 +1,3 @@
-Updated on 12-04-2020,IEDCR lab,Other lab,Total
-COVID-19 test conducted in last 24 hours,362,1208,1570
-Total COVID-19 test conducted,3746,7477,11223
-COVID-19 positive cases in last 24 hours,57,125,182
-COVID-19 Total cases,373,430,803
+Updated on 12-04-2020,TotalCase
+COVID-19 positive cases in last 24 hours,182
+COVID-19 Total cases,803

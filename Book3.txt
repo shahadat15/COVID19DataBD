@@ -1,4 +1,4 @@
 name,cases
-Total Case,119,198
-Recovered,47,635
-Death,1,545
+Total Case,119198
+Recovered,47635
+Death,1545
